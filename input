@@ -1,0 +1,7 @@
+An array of n integers is given. 
+Determine the index of the last element of the array
+included in the binary heap for the maximum
+
+Example:
+30
+99 78 92 58 69 73 87 49 40 12 40 65 74 78 44 3 27 29 23 9 3 30 9 57 60 33 7 42 16 35 
